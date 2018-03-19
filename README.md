@@ -1,2 +1,2 @@
 # hadoopKeyValueFile
-A sample file for key value
+A sample file for key values.
